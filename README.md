@@ -29,7 +29,7 @@ preview
 
 - 💬 Ask me about **JAVA , Selenium WebDriver, Appium, JUnit, TestNG, Cucumber, and Jenkins**
 
-- 📫 How to reach me **heenamansuri329@gmail.com**
+- 📫 How to reach me **heenamansuri318@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1XfgPggtZS5Cy5C7AfM0UBVZeDUpF7sK_AVsnJyhTHMQ/edit?usp=sharing](https://docs.google.com/document/d/1XfgPggtZS5Cy5C7AfM0UBVZeDUpF7sK_AVsnJyhTHMQ/edit?usp=sharing)
 
