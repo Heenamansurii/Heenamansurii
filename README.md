@@ -1,76 +1,81 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21608
-Fork on GitHub
-6869
+<h1 align="center">Hi 👋 I'm Heena Mansuri</h1>
 
-back to edit
+<h3 align="center">Lead Test Engineer (SDET) · Agentic AI Tester · QA Automation Architect</h3>
 
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h1 align="center">Hi 👋 there, I'm Heena Mansuri</h1>
-<h3 align="center">QA Engineer</h3>
-
-- 🔭 I’m currently working on **Billing app**
-
-- 🌱 I’m currently learning **a lot of things**
-
-- 👯 I’m looking to collaborate **Software Developers ,QA**
-
-- 🤝 I’m looking for help with **Content Creators**
-
-- 👨‍💻 Most of my projects are available on [GitHub](GitHub)
-
-- 💬 Ask me about **JAVA , Selenium WebDriver, Appium, JUnit, TestNG, Cucumber, and Jenkins**
-
-- 📫 How to reach me **heenamansuri318@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1XfgPggtZS5Cy5C7AfM0UBVZeDUpF7sK_AVsnJyhTHMQ/edit?usp=sharing](https://docs.google.com/document/d/1XfgPggtZS5Cy5C7AfM0UBVZeDUpF7sK_AVsnJyhTHMQ/edit?usp=sharing)
-
-- ⚡ Fun fact **tea < 3😂**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/heenamansuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heenamansuri" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/heena mansuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="heena mansuri" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563A8&center=true&vCenter=true&width=600&lines=3.5%2B+Years+in+QA+Automation;Agentic+AI+%26+LLM+Pipeline+Tester;Selenium+%7C+Appium+%7C+Playwright+%7C+Claude+API;Building+the+Future+of+Software+Testing+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heenamansurii&show_icons=true&locale=en&layout=compact" alt="heenamansurii" /></p>
+### 👩‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heenamansurii&show_icons=true&locale=en" alt="heenamansurii" /></p>
+- 🔭 Currently working as **Lead Test Engineer at Leadows Technology**
+- 🤖 Building & testing **Agentic AI pipelines** using **Anthropic Claude API** (tool-use, LLM validation, multi-agent workflows)
+- 🌱 Exploring **AI-powered QA**, Prompt Engineering & LLM output testing
+- 💼 3.5+ years experience in **Web, Mobile (Android & iOS) & API Testing**
+- 🏆 Built automation suites covering **90% regression** · Reduced manual effort by **40%**
+- 👯 Open to collaborate on **QA Automation, AI Testing & Open Source projects**
+- 📫 Reach me at **heenamansuri318@gmail.com**
+- ⚡ Fun fact: Tea > everything ☕😄
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heenamansurii&" alt="heenamansurii" /></p>
+---
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+### 🔗 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/heenamansuri" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="mailto:heenamansuri318@gmail.com" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### 🧪 Testing & Automation
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+
+#### 🤖 Agentic AI & LLM
+![Claude API](https://img.shields.io/badge/Anthropic_Claude_API-0A0A0A?style=for-the-badge&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+
+#### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### ⚙️ CI/CD & DevOps
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+### 🤖 Agentic AI Project Highlight
+
+> **Agentic AI Test Validator** — Built an autonomous testing pipeline using **Anthropic Claude API** with multi-step tool-use (function calling) to auto-generate and validate test scenarios.
+> Reduced manual test design effort by ~60% | Detects hallucinations, silent tool failures & state errors.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heenamansurii&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="heenamansurii" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=heenamansurii&show_icons=true&locale=en&theme=tokyonight" alt="heenamansurii" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heenamansurii&theme=tokyonight" alt="heenamansurii" />
+</p>
